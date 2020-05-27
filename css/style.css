@@ -1,0 +1,32 @@
+#topbanner {
+    background-image: url("https://www.johnstonchapel.org/wp-content/uploads/2017/02/Bluegrass-Music-playing-guitar-Banner.jpg") ;
+    text-align: center;
+    height: 200px;
+    padding:120px 0px 0px 0px
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+}
+.main{
+    text-align: center;
+
+}
+#aboutText{
+    display: none;
+}
+
+#services img{
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    border-radius: 50%;
+    
+    margin: 10% 10% 10% 15%;
+
+}
+#services h2{
+    text-align: center;
+    padding-top: 20px;
+}
